@@ -1,2 +1,3 @@
-# xss_post
-What is Cross-site Scripting and Why Developers Should Know This
+# This is kittoh's Blog
+
+1. What is Cross-site Scripting and Why Developers Should Know This
